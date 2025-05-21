@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|c:\\users\\ianro\\documents\\informatica\\c#\\reportesc#\\reportesc#\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesc#\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D6C8D7-2FBD-4EBE-AF79-BB2E98224767}|reportesC#\\reportesC#.csproj|solutionrelative:reportesc#\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form1.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Form1.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "reportesC#\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:34:04.157Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form2.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Form2.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "reportesC#\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:20:44.994Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form1.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Form1.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form1.cs",
+              "RelativeToolTip": "reportesC#\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:48:51.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form2.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Form2.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form2.cs",
+              "RelativeToolTip": "reportesC#\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:31:15.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Report2.rdlc",
+              "RelativeDocumentMoniker": "reportesC#\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Report2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "reportesC#\\Report2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-16T01:48:25.622Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Report1.rdlc",
+              "RelativeDocumentMoniker": "reportesC#\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "reportesC#\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-16T01:48:22.894Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "reportesC#\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\DataSet1.xsd",
+              "RelativeToolTip": "reportesC#\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-16T01:46:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form3.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Form3.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "reportesC#\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:44:05.433Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "reportesC#\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:17:29.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Class2.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Class2.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Class2.cs*",
+              "RelativeToolTip": "reportesC#\\Class2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:37:32.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Class1.cs",
+              "RelativeDocumentMoniker": "reportesC#\\Class1.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\informatica\\C#\\reportesC#\\reportesC#\\Class1.cs",
+              "RelativeToolTip": "reportesC#\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:35:10.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

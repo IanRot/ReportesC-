@@ -13,10 +13,16 @@ en el Data Set llamado DataSet1
 
 ## paso 5
 iremos al explorador de servidores y lo conectaremos con nuestra base de datos SQL
+![image](https://github.com/user-attachments/assets/144378b1-2a6e-4381-8378-2985e37acca1)
+
 ## paso 6
-luego pondremos el nombre de nuestra base de datos, que podremos encontrar al mmomento de abrir SQL Server Managment Studio y antes de conectarnos copiamos el apartado que dice **servidor**. 
+luego pondremos el nombre de nuestra base de datos, que podremos encontrar al mmomento de abrir SQL Server Managment Studio y antes de conectarnos copiamos el apartado que dice **servidor**.
+![image](https://github.com/user-attachments/assets/748d0430-3d20-488e-bcbf-02c27fe1f2a0)
+
 ## paso 7
 Luego de copiar el servior lo pondremos en el del data set, usaremos la autentificacion de windows y confirmamos que vamos a confiar en el certificado del servidor.
+![image](https://github.com/user-attachments/assets/145deb6e-1fc1-4950-a97f-e217f2875dae)
+
 ## paso 8
 Finalmente comprobamos la conexion y aceptamos.
 ## paso 9

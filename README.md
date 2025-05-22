@@ -21,6 +21,7 @@ luego pondremos el nombre de nuestra base de datos, que podremos encontrar al mm
 
 ## paso 7
 Luego de copiar el servior lo pondremos en el del data set, usaremos la autentificacion de windows y confirmamos que vamos a confiar en el certificado del servidor.
+
 ![image](https://github.com/user-attachments/assets/145deb6e-1fc1-4950-a97f-e217f2875dae)
 
 ## paso 8

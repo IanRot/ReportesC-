@@ -6,8 +6,11 @@ instalar el paquete NuGet de Microsoft.Reporting.WinForms.
 Para esto iremos a Extensiones, luego a administrar extensiones y en el buscador pondremos Microsoft.Reporting.WinForms.
 ## paso 3
 crearemos un elemento de conjunto de datos o Data Set
+![image](https://github.com/user-attachments/assets/6a07f3eb-0668-4a8d-99e6-05d178cd3699)
+
 ## paso 4
 en el Data Set llamado DataSet1 
+
 ## paso 5
 iremos al explorador de servidores y lo conectaremos con nuestra base de datos SQL
 ## paso 6
